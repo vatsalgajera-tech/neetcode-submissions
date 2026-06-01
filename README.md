@@ -14,4 +14,3 @@ The purpose of this repository is to strengthen my understanding of Data Structu
 
 Happy Coding! 🚀
 
-This version is concise, professional, and suitable for a GitHub repository README.
