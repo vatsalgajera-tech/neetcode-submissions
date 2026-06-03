@@ -9,6 +9,3 @@ This repository contains my solutions to problems. The solutions are implemented
 ## Author
 
 ### **Vatsal Gajera**
-
-Happy Coding! 🚀
-
